@@ -1,4 +1,4 @@
-# Olist E-commerce Analysis – Brazil (2016–2018)
+# Olist E-Commerce Analysis – Brazil (2016–2018)
 
 This project presents a Business Intelligence report analyzing sales data from **Olist**, a Brazilian e-commerce platform for third-party sellers. The goal is to uncover **key business trends** and support strategic decision-making for sellers and marketplaces alike.
 
@@ -47,7 +47,9 @@ Built from the **public Olist dataset**
 
 ## 📄 Report File
 
-📎 [Download Power BI file (.pbix) via GitHub Releases](https://github.com/leonardop56/Olist-E-Commerce-Analysis/releases/tag/v1.0)
+📎 [Download Power BI file (.pbix) via GitHub Releases](https://github.com/leonardop56/Olist-E-Commerce-Analysis/releases/tag/v1.0)  
+
+`Olist Dashboard.png` is also icluded in the repository for quick viewing.
 
 ---
 
