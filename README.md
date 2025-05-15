@@ -49,7 +49,7 @@ Built from the **public Olist dataset**
 
 📎 [Download Power BI file (.pbix) via GitHub Releases](https://github.com/leonardop56/Olist-E-Commerce-Analysis/releases/tag/v1.0)  
 
-`Olist Dashboard.png` is also icluded in the repository for quick viewing.
+`Olist Dashboard.PNG` is also icluded in the repository for quick viewing.
 
 ---
 
