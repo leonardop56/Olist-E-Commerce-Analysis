@@ -47,8 +47,7 @@ Built from the **public Olist dataset**
 
 ## 📄 Report File
 
-The report is available here:  
-📎 **`Olist_Report.pdf`** (or `.pbix` if preferred)
+📎 [Download Power BI file (.pbix) via GitHub Releases](https://github.com/leonardop56/Olist-Ecommerce-Analysis/releases/latest)
 
 ---
 
